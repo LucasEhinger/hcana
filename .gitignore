@@ -61,3 +61,5 @@ examples/cache
 # Working directories
 work
 build*
+include
+lib64
